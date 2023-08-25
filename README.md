@@ -3,7 +3,7 @@
 
 # Usage
 
-* To train binary autoencoder on the own set of sequences run
+* Binary autoencoder training via
 
 ```
 python train.py experiment_configs/binary.json
@@ -16,3 +16,7 @@ python sampler.py
 ```
 
 For more details see
+
+```
+https://github.com/tucs7/MOQA
+```
