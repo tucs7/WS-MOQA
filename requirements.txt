@@ -1,0 +1,6 @@
+multiprocessing_generator
+tqdm
+requests
+numpy
+parrot
+netsolp
