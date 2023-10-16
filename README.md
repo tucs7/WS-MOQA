@@ -15,10 +15,10 @@ python train.py experiment_configs/binary.json
 https://github.com/idptools/parrot
 ```
 
-Model training can be performed via
+For each dataset model training is performed via
 
 ```
-parrot-train data_set_*.tsv seq_class_model.pt --datatype sequence --classes 2 -nl 1 -hs 10 -b 16 --epochs 25 --include-figs --probabilistic-classification --set-fractions 0.8 0.1 0.1
+parrot-train data_set_*.tsv seq_class_model.pt --datatype sequence --classes 2 -nl 1 -lr 0.001 -hs 10 -b 16 --epochs 25 --include-figs --probabilistic-classification --set-fractions 0.8 0.1 0.1
 ```
 
 * For sampling run
