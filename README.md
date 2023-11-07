@@ -15,6 +15,13 @@
   https://github.com/tsudalab/fmqa
 ```
 
+# Data
+
+* Whole sequence set with labels from the round 4: 220518_deep_sequencing_analysis.csv
+* Whole sequence set for bVAE training: train.txt
+* Data sets for classifier model ensemble training: data_set_1..5.tsv
+
+
 # Usage
 
 * Train binary autoencoder
@@ -23,7 +30,7 @@
 python train.py experiment_configs/binary.json
 ```
 
-* Prepare ensemble of classifier models (5 datasets --> 5 models). We utilize PARROT package from
+* Prepare ensemble of classifier models. We utilize PARROT package from
 
 ```
 https://github.com/idptools/parrot
