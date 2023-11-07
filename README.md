@@ -1,6 +1,8 @@
 # nanobody_MOQA
 
 
+nanobody_MOQA is a framework for multiobjective optimization of nanobody CDR1,2,3 loop properties using QUBO samplers.
+
 # Install
 
 * Create a new environment
@@ -83,7 +85,7 @@ and in the main loop part after model training add
 bqm = dimod.BinaryQuadraticModel(model)
 ```
 
-See also
+See also peptide design package MOQA
 
 ```
 https://github.com/tucs7/MOQA
