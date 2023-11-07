@@ -85,7 +85,7 @@ and in the main loop part after model training line add
 bqm = dimod.BinaryQuadraticModel(model)
 ```
 
-See also peptide design package MOQA
+For additional insights see also peptide design package MOQA
 
 ```
 https://github.com/tucs7/MOQA
