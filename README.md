@@ -52,7 +52,7 @@ parrot-train data_set_*.tsv seq_class_model.pt --datatype sequence --classes 2 -
 https://github.com/tvinet/NetSolP-1.0
 ```  
 
-* Before sampling prepare initialization file vectors.txt with random binary strings and place it into /model_output/binary
+* Before sampling prepare initialization file vectors.txt with random binary strings and place it into the /model_output/binary
 
 * To sample run
 
