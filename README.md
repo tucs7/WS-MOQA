@@ -58,7 +58,7 @@ https://github.com/tvinet/NetSolP-1.0
 python sampler.py
 ```
 
-* Note, that the default sampler is set to be simulated anealing. If you want to use quantum annealer you need a passcode from DWave
+* Note, that the default sampler is set to be simulated annealing. If you want to use quantum annealer you need a passcode from DWave
 
 ```
 https://cloud.dwavesys.com/leap/signup/
