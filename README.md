@@ -19,9 +19,9 @@ AB_MOQA is a framework for multiobjective optimization of antibody properties us
 
 # Data
 
-* Whole sequence set (CDR1+CDR2+CDR3) with binding scores from the round 4 of phage display biopanning: 220518_deep_sequencing_analysis.csv
-* Whole sequence set formatted for bVAE training: train.txt
-* Data sets for classifier model ensemble training (active with binding score >5, inactive with the score <1): data_set_1..5.tsv
+* Whole sequence set (CDR1+CDR2+CDR3) with binding scores from the round 4 of phage display biopanning: /data/220518_deep_sequencing_analysis.csv
+* Whole sequence set formatted for bVAE training: /data/train.txt
+* Data sets for classifier model ensemble training (active with binding score >5, inactive with the score <1): /data/data_set_1..5.tsv
 
 
 # Usage
