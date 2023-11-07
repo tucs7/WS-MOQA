@@ -17,7 +17,7 @@
 
 # Data
 
-* Whole sequence set with labels from the round 4 phage display biopanning: 220518_deep_sequencing_analysis.csv
+* Whole sequence set with labels from the round 4 of phage display biopanning: 220518_deep_sequencing_analysis.csv
 * Whole sequence set for bVAE training: train.txt
 * Data sets for classifier model ensemble training: data_set_1..5.tsv
 
