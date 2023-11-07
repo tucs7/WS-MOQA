@@ -1,7 +1,7 @@
-# nanobody_MOQA
+# AB_MOQA
 
 
-nanobody_MOQA is a framework for multiobjective optimization of antibody properties using QUBO samplers.
+AB_MOQA is a framework for multiobjective optimization of antibody properties using QUBO samplers.
 
 # Install
 
