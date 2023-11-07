@@ -79,7 +79,7 @@ bqm = dimod.BinaryQuadraticModel(model)
 sampler = EmbeddingComposite(DWaveSampler(endpoint='https://cloud.dwavesys.com/sapi', token='YOUR PASSCODE', solver='Advantage_system4.1'))
 ```
 
-and in the main loop part after model training add
+and in the main loop part after model training line add
 
 ```
 bqm = dimod.BinaryQuadraticModel(model)
