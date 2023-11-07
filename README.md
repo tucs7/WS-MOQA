@@ -19,7 +19,7 @@ VHH_MOQA is a framework for multiobjective optimization of antibody properties u
 
 # Data
 
-* Whole sequence set with labels from the round 4 of phage display biopanning: 220518_deep_sequencing_analysis.csv
+* Whole sequence set (CDR1+CDR2+CDR3) with binding scores from the round 4 of phage display biopanning: 220518_deep_sequencing_analysis.csv
 * Whole sequence set formatted for bVAE training: train.txt
 * Data sets for classifier model ensemble training: data_set_1..5.tsv
 
