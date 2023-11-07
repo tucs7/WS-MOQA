@@ -1,7 +1,7 @@
-# nanobody_MOQA
+# VHH_MOQA
 
 
-nanobody_MOQA is a framework for multiobjective optimization of nanobody CDR1,2,3 loop properties using QUBO samplers.
+nanobody_MOQA is a framework for multiobjective optimization of antibody properties using QUBO samplers.
 
 # Install
 
