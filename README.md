@@ -1,7 +1,7 @@
 # WS-MOQA
 
 
-AB_MOQA is a framework for multiobjective optimization of antibody properties using QUBO samplers.
+WS-MOQA is a framework for multiobjective optimization of antibody properties using QUBO samplers.
 
 # Install
 
