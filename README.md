@@ -1,7 +1,7 @@
 # WS-MOQA
 
 
-WS-MOQA is a whole spectrum approach that provides a balanced way of dealing with biological sequence property prediction uncertainty when sampling.
+WS-MOQA is a whole spectrum approach that provides a balanced way of dealing with biological sequence property prediction uncertainty when sampling
 
 # Install
 
