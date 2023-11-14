@@ -1,4 +1,4 @@
-# AB_MOQA
+# WS_MOQA
 
 
 AB_MOQA is a framework for multiobjective optimization of antibody properties using QUBO samplers.
