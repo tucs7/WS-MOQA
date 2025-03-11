@@ -51,8 +51,8 @@ with tf.Session() as sess:
     # Train multiple epochs
     num_batches = 0
     sample_count_int = 0
-    o1 = open('/home/andrejs/data/qan/binary-autoencoder-master_binary2_10_ev2_cdr/model_training/train_loss.txt','a')
-    o2 = open('/home/andrejs/data/qan/binary-autoencoder-master_binary2_10_ev2_cdr/model_training/dev_loss.txt','a')
+    o1 = open('.../model_training/train_loss.txt','a')
+    o2 = open('.../model_training/dev_loss.txt','a')
     for epoch in range(hparams['num_epochs']):
         print('Epoch', epoch)
         # Train
